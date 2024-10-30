@@ -1,0 +1,4 @@
+.mce-window .mce-container-body.mce-abs-layout {
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+}
